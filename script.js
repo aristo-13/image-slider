@@ -137,7 +137,7 @@ const describe = []//array to store the description of each car from the promise
         }
 
     
-        fetchData();//calling the fetchdata() async function
+        fetchData();//calling the fetchdata() async functionn
    
  function changeColor(){
     let ran = Math.floor(Math.random() * colours.length - 1)
